@@ -32,3 +32,6 @@ See `requirements.txt` for Python dependencies.
 ## System Integration
 - Uses systemd user services for background tasks
 - Stores session tokens in `~/.iiitk_portal_session`
+
+## License
+MIT
